@@ -1,4 +1,4 @@
-# memorycard
+# MemorycardGame
 
 A new Flutter project.
 
